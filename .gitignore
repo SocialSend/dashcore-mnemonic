@@ -1,8 +1,8 @@
 *.sw[a-z]
 coverage
 node_modules
-bitcore-mnemonic.js
-bitcore-mnemonic.min.js
+socialsendcore-mnemonic.js
+socialsendcore-mnemonic.min.js
 tests.js
 
 lib/errors/index.js
@@ -11,4 +11,3 @@ npm-debug.log
 bower_components
 report
 .DS_Store
-.idea
